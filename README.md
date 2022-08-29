@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 I’m currently working on Shopify Projects
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about Shopify Store setup
 
 <!--
 **stansberydev/stansberydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 -->
